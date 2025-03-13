@@ -83,7 +83,7 @@ This project demonstrates various SQL techniques, including:
 ## :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Query+Results+Here" alt="Query Results" />
+  <img width="960" alt="Image" src="https://github.com/user-attachments/assets/c0b44cb0-9698-4669-b2ec-a61dc7893036" />
 </div>
 
 ---
@@ -132,7 +132,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## :handshake: Contact
 
-Your Name - [Your GitHub](https://github.com/NicM34?tab=repositories) - your.email@example.com
+Wandisiwe Nicole Manyathela - [Your GitHub](https://github.com/NicM34?tab=repositories) - your.nicolemanyathela5@gmail.com
 
 Project Link: [GitHub Repository](https://github.com/yourrepo)
 
