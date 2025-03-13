@@ -132,7 +132,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## :handshake: Contact
 
-Your Name - [Your GitHub](https://github.com/yourusername) - your.email@example.com
+Your Name - [Your GitHub](https://github.com/NicM34?tab=repositories) - your.email@example.com
 
 Project Link: [GitHub Repository](https://github.com/yourrepo)
 
@@ -142,4 +142,3 @@ Project Link: [GitHub Repository](https://github.com/yourrepo)
 
 - [COVID-19 Data Source (Kaggle/OWID)](https://ourworldindata.org/coronavirus)
 - [SQL Server Documentation](https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15)
-- [Power BI for Data Visualization](https://powerbi.microsoft.com/)
