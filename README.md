@@ -134,7 +134,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 Wandisiwe Nicole Manyathela - [Your GitHub](https://github.com/NicM34?tab=repositories) - nicolemanyathela5@gmail.com
 
-Project Link: [GitHub Repository](https://github.com/yourrepo)
+Project Link: [https://nicolesportfolio.vercel.app/#projects])
 
 ---
 
